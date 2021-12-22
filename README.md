@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning <b>SQL Injection 💉, DDOS Attack, Python, and Web Dev</b><br>
 - ✊ I NEVER STOP LEARNING CAUSE I ENJOY IT!!<br>
 
-                                            "𝐀𝐧 𝐢𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭 𝐢𝐧 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐩𝐚𝐲𝐬 𝐭𝐡𝐞 𝐛𝐞𝐬𝐭 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭"
+                     "𝐀𝐧 𝐢𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭 𝐢𝐧 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐩𝐚𝐲𝐬 𝐭𝐡𝐞 𝐛𝐞𝐬𝐭 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭"
                               
 - 🎮 Other things I like: <b>Playing Online Games, Anime, Cooking, Listening to my Playlist 🎵, and Coding</b>
 - 📫 Send me an email: johnlloyd.desape@evsu.edu.ph<br>
