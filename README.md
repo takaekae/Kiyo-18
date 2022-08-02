@@ -1,6 +1,6 @@
 <h1><b> Hello, I'm John Lloyd <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;"></b></h1>
 
- a 1st year college student who aspire to become a Python Dev || Cyber Security ✨<br>
+ a 2nd year college student who aspire to become a Weekend Developer✨<br>
  
  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width: 100%;">
 
